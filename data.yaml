@@ -1,0 +1,17 @@
+names:
+- licence
+- num_plate
+- number_plate
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: license-plate-detector-jhydf
+  url: https://universe.roboflow.com/yolo-license-plate-detection/license-plate-detector-jhydf/dataset/5
+  version: 5
+  workspace: yolo-license-plate-detection
+
+
+path: /content/License-Plate-Detector-5/
+test: test/images
+train: train/images
+val: valid/images
